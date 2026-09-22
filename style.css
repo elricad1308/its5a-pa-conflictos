@@ -1,8 +1,18 @@
 body{
-  background-color: blue;
+  background-color: navy;
   color: white;
+  text-align: center;
 }
 
 img {
   width: 250px;
+  display: block;
+  margin: 0 auto;
+}
+
+.centered {
+  display: block;
+  text-align: center;
+  padding-top: 1rem;
+  font-weight: 600;
 }
